@@ -1,0 +1,47 @@
+{
+    "conversation": [
+        {
+            "timestamp": "2025-04-10T19:28:01.625920",
+            "query": "how much is the school fees?",
+            "response": "The payment deadlines for full payments are typically two weeks before the start of each semester. For the first semester, payment is usually due by late September, and for the second semester by early February. Installment payment plans have different deadlines. Late payments incur a penalty fee. Check the university calendar or bursary notifications for specific dates for the current session.",
+            "confidence": 0.3818330589655848,
+            "category": "fees_and_payments"
+        },
+        {
+            "timestamp": "2025-04-10T19:28:49.258819",
+            "query": "what are the courses offered in Nile university?",
+            "response": "Nile University offers various programs including: Engineering (Civil, Electrical, Computer, Mechanical), Sciences (Computer Science, Mathematics, Biology), Management (Business Administration, Accounting, Economics), Arts & Social Sciences (Mass Communication, International Relations), Law, Medicine & Health Sciences, and Postgraduate programs (MBA, MSc, PhD) in multiple disciplines. Visit the university website for a complete list of programs.",
+            "confidence": 0.5589798636225062,
+            "category": "courses_and_academics"
+        },
+        {
+            "timestamp": "2025-04-10T19:29:53.227821",
+            "query": "give me the university calendar for 2025 academic session. ",
+            "response": "The academic year typically starts in late September or early October for both new and returning students. Orientation for new students is usually held one week before classes begin. The exact dates for the current academic year are published on the university website and notice boards. Please check the official university calendar for specific dates.",
+            "confidence": 0.6703430087100684,
+            "category": "university_calendar"
+        },
+        {
+            "timestamp": "2025-04-10T19:30:37.202097",
+            "query": "how many departments are available in the univeresity",
+            "response": "The Bursary department can be contacted through: Email: bursary@nileuniversity.edu.ng, Phone: +234-XXX-XXXX-XXX, or in person at the Bursary department located on the first floor of the Administration Building. Office hours are Monday to Friday, 8:00 AM to 4:00 PM. For fee payments and financial inquiries, it's advisable to visit in person.",
+            "confidence": 0.35459927222510146,
+            "category": "university_administration"
+        },
+        {
+            "timestamp": "2025-04-10T19:31:21.153235",
+            "query": "I don't mean the bursary departments. I mean the courses in nile university. ",
+            "response": "The Bursary department can be contacted through: Email: bursary@nileuniversity.edu.ng, Phone: +234-XXX-XXXX-XXX, or in person at the Bursary department located on the first floor of the Administration Building. Office hours are Monday to Friday, 8:00 AM to 4:00 PM. For fee payments and financial inquiries, it's advisable to visit in person.",
+            "confidence": 0.5650919726977695,
+            "category": "university_administration"
+        },
+        {
+            "timestamp": "2025-04-10T19:31:45.643984",
+            "query": "Does nile university have hostels. ",
+            "response": "Hostel fees at Nile University range from \u00e2\u201a\u00a6350,000 to \u00e2\u201a\u00a6550,000 per academic year. Shared rooms (2-4 students) cost \u00e2\u201a\u00a6350,000-\u00e2\u201a\u00a6400,000, while single rooms cost \u00e2\u201a\u00a6500,000-\u00e2\u201a\u00a6550,000. All fees include basic utilities. Premium accommodations with enhanced amenities are available at \u00e2\u201a\u00a6650,000 per academic year.",
+            "confidence": 0.48497275168706233,
+            "category": "hostel_and_accommodation"
+        }
+    ],
+    "start_time": "2025-04-10T19:27:58.441620"
+}

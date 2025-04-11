@@ -1,0 +1,23 @@
+services:
+  # Backend API
+  - type: web
+    name: nile-chatbot-api
+    env: python
+    buildCommand: cd backend && pip install -r requirements.txt
+    startCommand: cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.0
+
+  # Frontend
+  - type: web
+    name: nile-chatbot-frontend
+    env: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./build
+    envVars:
+      - key: REACT_APP_API_URL
+        fromService:
+          name: nile-chatbot-api
+          type: web
+          property: url 

@@ -1,0 +1,222 @@
+.landing-container {
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(14, 36, 48, 0.75), rgba(0, 53, 42, 0.85)), url('https://www.nileuniversity.edu.ng/wp-content/uploads/2020/08/Nile-University-Senate.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.landing-overlay {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: radial-gradient(circle at center, rgba(0, 115, 55, 0.2) 0%, rgba(11, 42, 54, 0.1) 70%);
+}
+
+.landing-content {
+  max-width: 1000px;
+  text-align: center;
+  background-color: rgba(14, 38, 46, 0.65);
+  backdrop-filter: blur(10px);
+  padding: 3rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.logo-container {
+  margin-bottom: 1.5rem;
+}
+
+.logo {
+  height: 90px;
+  background-color: white;
+  padding: 12px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.05);
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 1.5rem;
+  color: #fff;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  background: linear-gradient(90deg, #ffffff, #a0fdbb);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.intro-text {
+  font-size: 1.3rem;
+  line-height: 1.6;
+  margin-bottom: 3rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.features {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 3rem;
+  flex-wrap: wrap;
+}
+
+.feature {
+  background: linear-gradient(135deg, rgba(0, 78, 66, 0.3), rgba(20, 61, 87, 0.3));
+  padding: 2rem;
+  border-radius: 16px;
+  width: 250px;
+  transition: all 0.4s ease;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(5px);
+  position: relative;
+  overflow: hidden;
+}
+
+.feature::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: 0.5s;
+}
+
+.feature:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 30px rgba(0, 50, 40, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.feature:hover::before {
+  left: 100%;
+}
+
+.feature-icon {
+  font-size: 3rem;
+  margin-bottom: 1.2rem;
+  background: linear-gradient(135deg, #ffffff, #a0fdbb);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.feature h3 {
+  margin-bottom: 0.8rem;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+.feature p {
+  font-size: 0.95rem;
+  opacity: 0.9;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.start-button {
+  background: linear-gradient(135deg, #007a1f 0%, #00552a 100%);
+  color: white;
+  border: none;
+  padding: 1.2rem 2.5rem;
+  font-size: 1.3rem;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0, 105, 30, 0.4);
+  z-index: 1;
+}
+
+.start-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #00963b 0%, #00401f 100%);
+  transition: opacity 0.3s ease;
+  opacity: 0;
+  z-index: -1;
+}
+
+.start-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 25px rgba(0, 105, 30, 0.5);
+}
+
+.start-button:hover::before {
+  opacity: 1;
+}
+
+.start-button:active {
+  transform: translateY(1px);
+  box-shadow: 0 2px 10px rgba(0, 105, 30, 0.4);
+}
+
+.disclaimer {
+  font-size: 0.9rem;
+  opacity: 0.9;
+  max-width: 650px;
+  margin: 0 auto;
+  background-color: rgba(11, 50, 45, 0.45);
+  padding: 1rem;
+  border-radius: 10px;
+  transition: opacity 0.3s ease;
+}
+
+.disclaimer:hover {
+  opacity: 1;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .landing-content {
+    padding: 2rem 1.5rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .intro-text {
+    font-size: 1.1rem;
+  }
+  
+  .features {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .feature {
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .start-button {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+  }
+} 

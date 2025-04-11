@@ -1,0 +1,118 @@
+2025-04-10 19:26:06,851 - backend - INFO - Initializing NLP and Speech processors
+2025-04-10 19:26:46,006 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\MINISTER JOHN\\Desktop\\nilechatbot\\backend\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-10 19:26:46,007 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\MINISTER JOHN\Desktop\nilechatbot\backend\venv\Lib\site-packages\comtypes\gen'
+2025-04-10 19:26:48,392 - speech_engine - INFO - Initializing SpeechEngine
+2025-04-10 19:26:48,396 - speech_engine - INFO - Text-to-speech engine initialized successfully
+2025-04-10 19:26:48,398 - backend - INFO - Starting FastAPI application
+2025-04-10 19:26:53,958 - backend - INFO - Initializing NLP and Speech processors
+2025-04-10 19:27:57,681 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\MINISTER JOHN\\Desktop\\nilechatbot\\backend\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-10 19:27:57,695 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\MINISTER JOHN\Desktop\nilechatbot\backend\venv\Lib\site-packages\comtypes\gen'
+2025-04-10 19:27:58,412 - speech_engine - INFO - Initializing SpeechEngine
+2025-04-10 19:27:58,417 - speech_engine - INFO - Text-to-speech engine initialized successfully
+2025-04-10 19:27:58,418 - backend - INFO - Starting FastAPI application
+2025-04-10 19:32:26,701 - root - INFO - Received voice chat request
+2025-04-10 19:32:26,710 - root - INFO - Audio data length: 213920
+2025-04-10 19:32:26,711 - root - INFO - Session ID: session_iuwe11gw9gs
+2025-04-10 19:32:26,711 - speech_engine - INFO - Starting speech-to-text conversion
+2025-04-10 19:32:26,713 - speech_engine - INFO - Decoding base64 audio data (length: 213920)
+2025-04-10 19:32:26,715 - speech_engine - INFO - Decoded audio size: 160438 bytes
+2025-04-10 19:32:26,717 - speech_engine - INFO - Audio saved to temporary file: C:\Users\MINIST~1\AppData\Local\Temp\tmpj5f0r9zf.wav
+2025-04-10 19:32:26,722 - speech_engine - INFO - Starting speech recognition
+2025-04-10 19:32:29,575 - speech_engine - ERROR - Error in speech recognition: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-04-10 19:32:29,577 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmpj5f0r9zf.wav
+2025-04-10 19:32:29,581 - root - INFO - Recognized text: 'An error occurred during speech recognition.'
+2025-04-10 19:32:29,629 - root - INFO - NLP response: 'I'm not sure how to answer that. Please try rephrasing your question.' (confidence: 0.0, category: unknown)
+2025-04-10 19:32:29,629 - root - INFO - Generating voice response
+2025-04-10 19:32:29,632 - speech_engine - INFO - Converting text to speech: 'I'm not sure how to answer that. Please try rephrasing your question.'
+2025-04-10 19:32:29,638 - speech_engine - INFO - Created temporary file for audio: C:\Users\MINIST~1\AppData\Local\Temp\tmpf9yn0ija.mp3
+2025-04-10 19:32:29,640 - speech_engine - INFO - Generating speech audio
+2025-04-10 19:32:29,731 - speech_engine - INFO - Reading audio file and encoding to base64
+2025-04-10 19:32:29,748 - speech_engine - INFO - Base64 audio length: 320740
+2025-04-10 19:32:29,751 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmpf9yn0ija.mp3
+2025-04-10 19:32:36,109 - root - INFO - Received voice chat request
+2025-04-10 19:32:36,110 - root - INFO - Audio data length: 92176
+2025-04-10 19:32:36,114 - root - INFO - Session ID: session_iuwe11gw9gs
+2025-04-10 19:32:36,221 - speech_engine - INFO - Starting speech-to-text conversion
+2025-04-10 19:32:36,224 - speech_engine - INFO - Decoding base64 audio data (length: 92176)
+2025-04-10 19:32:36,227 - speech_engine - INFO - Decoded audio size: 69132 bytes
+2025-04-10 19:32:36,229 - speech_engine - INFO - Audio saved to temporary file: C:\Users\MINIST~1\AppData\Local\Temp\tmpct0i3vt0.wav
+2025-04-10 19:32:36,230 - speech_engine - INFO - Starting speech recognition
+2025-04-10 19:32:36,296 - speech_engine - ERROR - Error in speech recognition: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-04-10 19:32:36,298 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmpct0i3vt0.wav
+2025-04-10 19:32:36,304 - root - INFO - Recognized text: 'An error occurred during speech recognition.'
+2025-04-10 19:32:36,311 - root - INFO - NLP response: 'I'm not sure how to answer that. Please try rephrasing your question.' (confidence: 0.0, category: unknown)
+2025-04-10 19:32:36,312 - root - INFO - Generating voice response
+2025-04-10 19:32:36,314 - speech_engine - INFO - Converting text to speech: 'I'm not sure how to answer that. Please try rephrasing your question.'
+2025-04-10 19:32:36,320 - speech_engine - INFO - Created temporary file for audio: C:\Users\MINIST~1\AppData\Local\Temp\tmpnpobvlvn.mp3
+2025-04-10 19:32:36,321 - speech_engine - INFO - Generating speech audio
+2025-04-10 19:32:36,411 - speech_engine - INFO - Reading audio file and encoding to base64
+2025-04-10 19:32:36,439 - speech_engine - INFO - Base64 audio length: 320740
+2025-04-10 19:32:36,441 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmpnpobvlvn.mp3
+2025-04-10 19:32:43,567 - root - INFO - Received voice chat request
+2025-04-10 19:32:43,575 - root - INFO - Audio data length: 123484
+2025-04-10 19:32:43,578 - root - INFO - Session ID: session_iuwe11gw9gs
+2025-04-10 19:32:43,580 - speech_engine - INFO - Starting speech-to-text conversion
+2025-04-10 19:32:43,586 - speech_engine - INFO - Decoding base64 audio data (length: 123484)
+2025-04-10 19:32:43,589 - speech_engine - INFO - Decoded audio size: 92611 bytes
+2025-04-10 19:32:43,939 - speech_engine - INFO - Audio saved to temporary file: C:\Users\MINIST~1\AppData\Local\Temp\tmpd66osbxq.wav
+2025-04-10 19:32:43,941 - speech_engine - INFO - Starting speech recognition
+2025-04-10 19:32:44,008 - speech_engine - ERROR - Error in speech recognition: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-04-10 19:32:44,012 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmpd66osbxq.wav
+2025-04-10 19:32:44,013 - root - INFO - Recognized text: 'An error occurred during speech recognition.'
+2025-04-10 19:32:44,021 - root - INFO - NLP response: 'I'm not sure how to answer that. Please try rephrasing your question.' (confidence: 0.0, category: unknown)
+2025-04-10 19:32:44,022 - root - INFO - Generating voice response
+2025-04-10 19:32:44,023 - speech_engine - INFO - Converting text to speech: 'I'm not sure how to answer that. Please try rephrasing your question.'
+2025-04-10 19:32:44,027 - speech_engine - INFO - Created temporary file for audio: C:\Users\MINIST~1\AppData\Local\Temp\tmp0bwz_xr3.mp3
+2025-04-10 19:32:44,029 - speech_engine - INFO - Generating speech audio
+2025-04-10 19:32:44,111 - speech_engine - INFO - Reading audio file and encoding to base64
+2025-04-10 19:32:44,144 - speech_engine - INFO - Base64 audio length: 320740
+2025-04-10 19:32:44,146 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmp0bwz_xr3.mp3
+2025-04-10 19:32:54,204 - root - INFO - Received voice chat request
+2025-04-10 19:32:54,205 - root - INFO - Audio data length: 83236
+2025-04-10 19:32:54,207 - root - INFO - Session ID: session_iuwe11gw9gs
+2025-04-10 19:32:54,208 - speech_engine - INFO - Starting speech-to-text conversion
+2025-04-10 19:32:54,211 - speech_engine - INFO - Decoding base64 audio data (length: 83236)
+2025-04-10 19:32:54,212 - speech_engine - INFO - Decoded audio size: 62426 bytes
+2025-04-10 19:32:54,215 - speech_engine - INFO - Audio saved to temporary file: C:\Users\MINIST~1\AppData\Local\Temp\tmp27amk_do.wav
+2025-04-10 19:32:54,217 - speech_engine - INFO - Starting speech recognition
+2025-04-10 19:32:54,271 - speech_engine - ERROR - Error in speech recognition: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format
+2025-04-10 19:32:54,273 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmp27amk_do.wav
+2025-04-10 19:32:54,275 - root - INFO - Recognized text: 'An error occurred during speech recognition.'
+2025-04-10 19:32:54,283 - root - INFO - NLP response: 'I'm not sure how to answer that. Please try rephrasing your question.' (confidence: 0.0, category: unknown)
+2025-04-10 19:32:54,288 - root - INFO - Generating voice response
+2025-04-10 19:32:54,290 - speech_engine - INFO - Converting text to speech: 'I'm not sure how to answer that. Please try rephrasing your question.'
+2025-04-10 19:32:54,292 - speech_engine - INFO - Created temporary file for audio: C:\Users\MINIST~1\AppData\Local\Temp\tmpp0cnclz0.mp3
+2025-04-10 19:32:54,293 - speech_engine - INFO - Generating speech audio
+2025-04-10 19:32:54,389 - speech_engine - INFO - Reading audio file and encoding to base64
+2025-04-10 19:32:54,410 - speech_engine - INFO - Base64 audio length: 320740
+2025-04-10 19:32:54,411 - speech_engine - INFO - Temporary file removed: C:\Users\MINIST~1\AppData\Local\Temp\tmpp0cnclz0.mp3
+2025-04-10 19:50:37,023 - backend - INFO - Initializing NLP and Speech processors
+2025-04-10 19:51:46,659 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\MINISTER JOHN\\Desktop\\nilechatbot\\backend\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-10 19:51:46,661 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\MINISTER JOHN\Desktop\nilechatbot\backend\venv\Lib\site-packages\comtypes\gen'
+2025-04-10 19:52:58,592 - speech_engine - INFO - Initializing SpeechEngine
+2025-04-10 19:52:58,597 - speech_engine - INFO - Text-to-speech engine initialized successfully
+2025-04-10 19:52:58,597 - backend - INFO - Starting FastAPI application
+2025-04-10 21:51:47,891 - backend - INFO - Initializing NLP and Speech processors
+2025-04-10 21:52:40,287 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\MINISTER JOHN\\Desktop\\nilechatbot\\backend\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-10 21:52:40,287 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\MINISTER JOHN\Desktop\nilechatbot\backend\venv\Lib\site-packages\comtypes\gen'
+2025-04-10 21:53:05,492 - speech_engine - INFO - Initializing SpeechEngine
+2025-04-10 21:53:05,564 - speech_engine - INFO - Text-to-speech engine initialized successfully
+2025-04-10 21:53:05,614 - backend - INFO - Starting FastAPI application
+2025-04-10 21:57:45,045 - backend - INFO - Received chat request: Where is nile university locat...
+2025-04-10 21:57:45,045 - backend - INFO - Created new session: session_l3r5oye6ew9
+2025-04-10 21:58:06,561 - backend - INFO - NLP response: 'Nile University is a private university located in...' (confidence: 0.6235195205328463, category: general_information)
+2025-04-10 22:07:42,689 - backend - INFO - Received chat request: What is the dress code in Nile...
+2025-04-10 22:07:42,694 - backend - INFO - Created new session: session_rzlpyueujz
+2025-04-10 22:07:42,701 - backend - INFO - NLP response: 'Nile University encourages modest and professional...' (confidence: 0.7943788705933547, category: general_information)
+2025-04-10 22:08:30,506 - backend - INFO - Received chat request: how much is the tuition fee?...
+2025-04-10 22:08:30,512 - backend - INFO - NLP response: 'The payment deadlines for full payments are typica...' (confidence: 0.3903803113114433, category: fees_and_payments)
+2025-04-10 22:12:25,232 - backend - INFO - Received chat request: How can I apply for admission?...
+2025-04-10 22:12:25,250 - backend - INFO - NLP response: 'To apply for hostel accommodation: 1) Log in to yo...' (confidence: 0.4155889539108581, category: hostel_and_accommodation)
+2025-04-10 22:13:14,748 - backend - INFO - Received chat request: How do i access my student ema...
+2025-04-10 22:13:14,753 - backend - INFO - NLP response: 'To access your student email: 1) Go to mail.nileun...' (confidence: 1.0, category: student_services)
+2025-04-10 22:30:22,706 - backend - INFO - Received chat request: Do i need jamb result to gain ...
+2025-04-10 22:30:22,713 - backend - INFO - NLP response: 'Admission requirements for undergraduate programs ...' (confidence: 0.5756555564966334, category: general_information)
+2025-04-10 22:41:08,458 - backend - INFO - Received chat request: how do I pay my tuition fee af...
+2025-04-10 22:41:08,514 - backend - INFO - NLP response: 'The payment deadlines for full payments are typica...' (confidence: 0.4922988121568003, category: fees_and_payments)
+2025-04-10 22:41:26,477 - backend - INFO - Received chat request: how do I pay my tuition fee af...
+2025-04-10 22:41:26,483 - backend - INFO - NLP response: 'The payment deadlines for full payments are typica...' (confidence: 0.415932665247496, category: fees_and_payments)

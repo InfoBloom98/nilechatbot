@@ -1,0 +1,1267 @@
+{
+    "fees_and_payments": [
+        {
+            "questions": [
+                "HOW MUCH IS THE TUITION FEE?",
+                "What are the tuition fees for undergraduate programs?",
+                "How much does undergraduate programs cost?",
+                "Undergraduate tuition fees?",
+                "Cost of undergraduate study at Nile University"
+            ],
+            "answer": "Please visit https://www.nileuniversity.edu.ng/tuition-fees."
+        },
+        {
+            "questions": [
+                "IS ACCOMMODATION INCLUDED IN THE TUITION FEE?",
+                "Does tuition include accommodation?"
+            ],
+            "answer": "No."
+        },
+        {
+            "questions": [
+                "IS THE TUITION FEE PAID ANNUAL?",
+                "Payment frequency for tuition"
+            ],
+            "answer": "Our tuition fee is per session (2 semesters) and it is exclusive of accommodation and feeding."
+        },
+        {
+            "questions": [
+                "CAN THE TUITION FEE BE PAID IN INSTALLMENTS?",
+                "Installment payment options"
+            ],
+            "answer": "The tuition can be paid in two instalments of 50% per semester."
+        },
+        {
+            "questions": [
+                "What are the tuition fees for postgraduate programs?",
+                "How much does Masters program cost?",
+                "Postgraduate tuition fees?",
+                "Cost of Masters degree at Nile University"
+            ],
+            "answer": "Postgraduate program fees at Nile University range from ₦2,500,000 to ₦4,000,000 per academic year depending on the program. MBA programs cost approximately ₦3,500,000, while MSc programs in Engineering and Sciences cost about ₦3,800,000. Please contact the Postgraduate School for specific program fees."
+        },
+        {
+            "questions": [
+                "What are the payment methods available?",
+                "How can I pay my school fees?",
+                "Payment options for tuition",
+                "Ways to pay fees at Nile University"
+            ],
+            "answer": "You can pay your fees through multiple channels: 1) Bank transfer to Nile University account, 2) Online payment through the university portal using debit card, 3) Direct deposit at designated bank branches, or 4) Pay at the university Bursary with POS or bank draft. Installment payment plans are available upon application and approval."
+        },
+        {
+            "questions": [
+                "Are there any scholarships available?",
+                "How can I get a scholarship?",
+                "Financial aid options",
+                "Scholarship opportunities at Nile University"
+            ],
+            "answer": "Nile University offers several scholarship opportunities including: Merit-based scholarships for new students with outstanding UTME scores, Sports scholarships for exceptional athletes, Need-based financial aid for students with financial hardship, and Departmental scholarships for continuing students with excellent academic performance. Visit the Scholarship office or website for application deadlines and requirements."
+        },
+        {
+            "questions": [
+                "When is the payment deadline?",
+                "Last date to pay tuition",
+                "Fee payment deadline",
+                "When should I pay my fees?"
+            ],
+            "answer": "The payment deadlines for full payments are typically two weeks before the start of each semester. For the first semester, payment is usually due by late September, and for the second semester by early February. Installment payment plans have different deadlines. Late payments incur a penalty fee. Check the university calendar or bursary notifications for specific dates for the current session."
+        },
+        {
+            "questions": [
+                "IS THERE AN ACCEPTANCE FEE FOR NILE UNIVERSITY'S PG PROGRAMS?",
+                "PG acceptance fee",
+                "Do postgraduate students pay acceptance fee?",
+                "Postgraduate acceptance fee"
+            ],
+            "answer": "There is no acceptance fee, only the tuition fee."
+        },
+        {
+            "questions": [
+                "Does Nile University offer scholarships?",
+                "Scholarship availability",
+                "Types of scholarships offered",
+                "Can I get a scholarship at Nile"
+            ],
+            "answer": "Yes, we offer academic and sports scholarships and discounts. However, Law and Medicine are not included in our academic scholarships. Kindly review the scholarship policy on our website at https://www.nileuniversity.edu.ng/scholarships-and-discounts."
+        },
+        {
+            "questions": [
+                "Are there existing scholarship opportunities for students currently running a program at Nile University?",
+                "Scholarships for current students",
+                "Can existing students get scholarships",
+                "Scholarship for enrolled students"
+            ],
+            "answer": "There is none for now. Scholarships can only be obtained at the point of joining Nile University."
+        }
+    ],
+    "online_payments": [
+        {
+            "questions": [
+                "How much is Nile University of Nigeria tuition fee?",
+                "Tuition fee amount",
+                "Cost of tuition at Nile",
+                "Current tuition rates"
+            ],
+            "answer": "For information about tuition fees kindly visit <a href='https://www.nileuniversity.edu.ng/tuition-fees' target='_blank'>this page</a>."
+        },
+        {
+            "questions": [
+                "How do I pay my tuition after gaining admission?",
+                "Tuition payment process",
+                "Making tuition payments",
+                "Pay school fees online"
+            ],
+            "answer": "All tuition payments are made online through the school website at: www.nileuniversity.edu.ng. Click Pay Fees in the menu of the website homepage then select the category you belong to. For new students, payments are made on the application portal. For returning students, payments are made via the student portal/dashboard."
+        },
+        {
+            "questions": [
+                "What does the tuition fee cover?",
+                "Tuition fee breakdown",
+                "What's included in tuition",
+                "Components of tuition fee"
+            ],
+            "answer": "The breakdown of the tuition fee is attached to your offer letter. Please note that tuition does not cover hostel accommodation."
+        },
+        {
+            "questions": [
+                "Can I pay tuition in full for the entire duration of my program?",
+                "Paying entire program tuition",
+                "Full program payment option",
+                "Advance payment for full program"
+            ],
+            "answer": "Yes, but you are required to visit the Accounts/Finance Unit to fill out an agreement form."
+        },
+        {
+            "questions": [
+                "Can I pay for another session before it begins?",
+                "Advance payment for next session",
+                "Paying ahead for next semester",
+                "Early tuition payment"
+            ],
+            "answer": "Yes, the payment link is always open for payments."
+        },
+        {
+            "questions": [
+                "Is it possible to make tuition payments in installments?",
+                "Installment payment options",
+                "Paying tuition in parts",
+                "Split tuition payments"
+            ],
+            "answer": "Students are allowed to pay their annual tuition in two installments of 50%, payable at the start of each semester."
+        },
+        {
+            "questions": [
+                "Can I write my exams and make the payment later?",
+                "Exams without paying fees",
+                "Delayed tuition payment",
+                "Taking exams before paying"
+            ],
+            "answer": "No, students with outstanding fees will not be allowed to write their semester exams."
+        },
+        {
+            "questions": [
+                "Can I get a refund if I paid more than the tuition for my course of study?",
+                "Excess payment refund",
+                "Overpayment reimbursement",
+                "Getting money back for excess payment"
+            ],
+            "answer": "Payment of tuition in excess is ONLY refundable when a student has graduated or has officially withdrawn. All excess payments will be transferred to the subsequent semesters."
+        },
+        {
+            "questions": [
+                "Why should I use the new online payment system?",
+                "Benefits of online payment",
+                "Advantages of online fee payment",
+                "Reasons to pay online"
+            ],
+            "answer": "Our online payment system is a convenient way of making tuition payments since it allows you to execute such transactions from the comfort of your home. You no longer have to go to the bank or come to our campus to make your tuition payments. Additionally, your payment is processed quicker when you use the online system relative to Direct bank transfers and POS payment at the school premises."
+        },
+        {
+            "questions": [
+                "How secure is the online payment system?",
+                "Payment system security",
+                "Online payment safety",
+                "Security of fee payment portal"
+            ],
+            "answer": "The payment system uses encrypted communications, making it very secure. Also, we do not collect or save your financial data as all online payment attempts made by our customers from our website are terminated on either Interswitch or Paystack payment portals (which are both PCI DSS 3.2 compliant as Level 1 Service Providers (loosely referred to as PCI Level 1 compliance)."
+        },
+        {
+            "questions": [
+                "Why does the bank account number that appears when I choose the \"Pay with Bank\" option keep changing for every new transaction?",
+                "Changing bank account numbers",
+                "Dynamic account numbers",
+                "Different account number each transaction"
+            ],
+            "answer": "The Bank account displayed during this type of Paystack checkout method is a Virtual and Dynamic (temporary and constantly changing) Account number. It is only valid for the time duration of the transaction (an attempt to make payment to this account number outside this transaction will fail)."
+        },
+        {
+            "questions": [
+                "How long does it take for my payment to reflect in the University's account with this system?",
+                "Payment reflection time",
+                "When payments are processed",
+                "Payment verification timeline"
+            ],
+            "answer": "Immediately the transaction success message is shown, the payment is reflected on the University's portal."
+        },
+        {
+            "questions": [
+                "What kinds of bank cards are accepted for online payments?",
+                "Accepted card types",
+                "Payment card options",
+                "Compatible debit/credit cards"
+            ],
+            "answer": "All Debit and Credit cards from all over the world, as long as they are issued by Mastercard, Visa, and Verve."
+        },
+        {
+            "questions": [
+                "What does the \"USSD\" payment method mean?",
+                "USSD payment explanation",
+                "How USSD payments work",
+                "Using USSD for payment"
+            ],
+            "answer": "USSD (Unstructured Supplementary Service Data) Payment method Involves using a short code provided during the transaction to make the payment from your bank from your Mobile phone without the need of an Internet connection (GTB's *737#, UBA's *919# and Sterling Bank's *822#)."
+        },
+        {
+            "questions": [
+                "What payment methods do you accept?",
+                "Available payment options",
+                "Ways to pay tuition",
+                "Payment channels available"
+            ],
+            "answer": "Paystack – Pay with Transfer (Zenith Bank Dynamic Account ), Pay with Card (Mastercard, Visa, Verve), Pay with Bank (First Bank of Nigeria, Guaranty Trust Bank, Kuda Bank, Sterling Bank, United Bank For Africa, Zenith Bank). Pay with Visa QR (Ecobank, FirstBank, Fidelity, Access or Zenith Bank mobile app). Interswitch – Pay with Card (Mastercard, Visa, Verve)."
+        },
+        {
+            "questions": [
+                "Who do I contact if I am encountering problems with the online payment system?",
+                "Payment system support",
+                "Help with payment issues",
+                "Technical support for payments"
+            ],
+            "answer": "For all online payment related issues and complaints please send an email to onlinepayments@nileuniversity.edu.ng."
+        }
+    ],
+    "hostel_and_accommodation": [
+        {
+            "questions": [
+                "How much is hostel accommodation?",
+                "Cost of staying in the hostel",
+                "Hostel fees",
+                "Price of accommodation at Nile University"
+            ],
+            "answer": "Hostel fees at Nile University range from ₦350,000 to ₦550,000 per academic year. Shared rooms (2-4 students) cost ₦350,000-₦400,000, while single rooms cost ₦500,000-₦550,000. All fees include basic utilities. Premium accommodations with enhanced amenities are available at ₦650,000 per academic year."
+        },
+        {
+            "questions": [
+                "How do I apply for hostel accommodation?",
+                "Hostel application process",
+                "Steps to get a hostel room",
+                "How to secure accommodation on campus"
+            ],
+            "answer": "To apply for hostel accommodation: 1) Log in to your student portal, 2) Go to 'Hostel Application' section, 3) Select your preferred room type, 4) Make the hostel payment, 5) Download and print your hostel allocation slip. Applications are on a first-come, first-served basis, so early application is recommended. New students can apply during registration."
+        },
+        {
+            "questions": [
+                "What facilities are available in the hostels?",
+                "Hostel amenities",
+                "What's provided in the student accommodation?",
+                "Facilities in Nile University hostels"
+            ],
+            "answer": "Nile University hostels provide: Furnished rooms with beds and mattresses, study desks and chairs, built-in wardrobes, 24/7 electricity with backup generators, Wi-Fi internet access, shared kitchenettes on each floor, laundry services, common rooms with TV, security personnel, and cleaning services for common areas. Students need to bring their own bedding, toiletries, and personal items."
+        },
+        {
+            "questions": [
+                "Are there hostels available for male and female students?",
+                "Male and female accommodation",
+                "Gender-specific hostels",
+                "Separate hostels for men and women"
+            ],
+            "answer": "Yes, Nile University provides separate hostel buildings for male and female students. Both male and female hostels have similar facilities and security measures. Female hostels have additional security protocols. All hostels are located within the university campus for convenient access to academic buildings and other facilities."
+        },
+        {
+            "questions": [
+                "What are the hostel rules and regulations?",
+                "Hostel policies",
+                "Rules for hostel residents",
+                "Accommodation guidelines at Nile University"
+            ],
+            "answer": "Key hostel rules include: Visiting hours are 10am-8pm, opposite gender not allowed in rooms, quiet hours from 10pm-6am, no cooking in rooms, no electrical appliances except laptops and phones, mandatory room inspections monthly, no alteration of room structures, no subletting, and compliance with check-in/check-out procedures. Violation of rules may result in disciplinary action."
+        },
+        {
+            "questions": [
+                "Is hostel accommodation automatically included in my tuition fee?",
+                "Does tuition include hostel fee?",
+                "Is accommodation part of tuition?",
+                "Do I pay separately for accommodation?"
+            ],
+            "answer": "Accommodation is not part of students' tuition fees; it is a separate and optional cost."
+        },
+        {
+            "questions": [
+                "How do I apply for on-campus accommodation?",
+                "Hostel application process",
+                "Apply for university housing",
+                "Getting campus accommodation"
+            ],
+            "answer": "Applications for on-campus accommodation are done online via the university website https://hostel.nileuniversity.edu.ng."
+        },
+        {
+            "questions": [
+                "Are all students automatically entitled to on-campus accommodation?",
+                "Guaranteed hostel space",
+                "Is accommodation available to all?",
+                "Hostel space guarantee"
+            ],
+            "answer": "No, accommodation is offered on a first-come, first-served basis to students who meet the eligibility criteria for accommodation."
+        },
+        {
+            "questions": [
+                "What are the criteria for eligibility for on-campus accommodation?",
+                "Hostel eligibility requirements",
+                "Qualify for campus accommodation",
+                "Who can apply for hostel"
+            ],
+            "answer": "To be eligible for on-campus accommodation, students must meet the following minimum requirements: Has enrolled (been admitted and made the stipulated tuition payment) at Nile University. Has applied for accommodation via the website https://hostel.nileuniversity.edu.ng/student. Has attended the briefing session with the hostel manager. It is mandatory for students to attend this session with at least one parent/guardian. Has passed the required medical examination. Has paid the stipulated accommodation fee. Has a minimum CGPA of 2.50 and no record of disciplinary issues (for returning students). Note: Being eligible for on-campus housing is not a guarantee that a hostel space is secured; accommodation is offered on a first-come, first-served basis. Students who have satisfied the eligibility requirements and are offered accommodation are required to sign the hostel rules and regulations form along with a parent/guardian to secure the accommodation."
+        },
+        {
+            "questions": [
+                "Can I make a payment for a hostel bed space before receiving confirmation of hostel accommodation?",
+                "Pay for hostel before confirmation",
+                "Advance hostel payment",
+                "Bed space payment timing"
+            ],
+            "answer": "Only students who have been given accommodation are allowed to make payment for bed spaces through the online payment link dedicated to hostel accommodation https://onlinepayment.nileuniversity.edu.ng/hostel."
+        },
+        {
+            "questions": [
+                "Can students make the payment for accommodation/hostel and tuition together via the same payment portal?",
+                "Combined hostel and tuition payment",
+                "Pay tuition and accommodation together",
+                "Single payment for fees and hostel"
+            ],
+            "answer": "No. The hostel and tuition fees are separate costs; Nile University provides separate payment portals for each payment. All hostel payments are to be made via the portal designated for this purpose— the link to the accommodation payment portal is sent via an official communication from the hostel to students who successfully secure accommodation with Nile University. All hostel payments made via portals other than the one designated for hostel payments are deemed invalid for the purpose of securing hostel accommodation."
+        },
+        {
+            "questions": [
+                "Is the hostel fee refundable?",
+                "Hostel payment refund policy",
+                "Can I get hostel fee back",
+                "Accommodation refund"
+            ],
+            "answer": "Once full payment for a hostel space for the semester is made and the room key is given, the hostel fee is non-refundable."
+        },
+        {
+            "questions": [
+                "Are there students that are given priority for on-campus accommodation?",
+                "Hostel priority students",
+                "Who gets preference for accommodation",
+                "Accommodation priority policy"
+            ],
+            "answer": "First-year (100 level) and final-year (400 level) students are given priority for on-campus accommodation. However, even within this category of students, accommodation is offered on a first-come, first-served basis."
+        },
+        {
+            "questions": [
+                "Is it mandatory for students to use the university's on-campus and approved off-campus housing?",
+                "Forced to stay in university housing",
+                "Must I use campus accommodation",
+                "Alternative accommodation options"
+            ],
+            "answer": "No. Students can make their accommodation arrangements while enrolled at Nile University."
+        },
+        {
+            "questions": [
+                "Who do I contact for hostel inquiries?",
+                "Hostel management contact",
+                "Accommodation help contact",
+                "Hostel information contacts"
+            ],
+            "answer": "All other enquiries about accommodation should be directed to the hostel management at: Male Hostel: 0705 242 3819 || Female Hostel: 0905 590 9972."
+        }
+    ],
+    "courses_and_academics": [
+        {
+            "questions": [
+                "WHAT COURSES DOES NILE OFFER?",
+                "Available programs at Nile",
+                "What programs are offered at Nile University?",
+                "Available courses of study",
+                "Degree programs at Nile University",
+                "What can I study at Nile University?"
+            ],
+            "answer": "Please visit https://www.nileuniversity.edu.ng/find-a-course to see the courses offer."
+        },
+        {
+            "questions": [
+                "How do I register for courses?",
+                "Course registration process",
+                "Steps to register courses",
+                "How to enroll in classes at Nile University"
+            ],
+            "answer": "Course registration steps: 1) Log in to your student portal, 2) Click on 'Course Registration' for the current semester, 3) Select courses from your program curriculum, 4) Confirm your selection, 5) Print your course registration form, 6) Get it signed by your academic advisor, and 7) Submit the form to your department. Registration typically opens two weeks before semester starts. Late registration attracts a penalty fee."
+        },
+        {
+            "questions": [
+                "How can I change or drop a course?",
+                "Process for dropping classes",
+                "How to switch courses",
+                "Can I change my registered courses?"
+            ],
+            "answer": "To change or drop a course: 1) Obtain a Course Add/Drop form from your department or download from the portal, 2) Fill in the courses you wish to add or drop, 3) Get approval from your academic advisor, 4) Submit the form to your department office, 5) Wait for approval and confirmation. You can change courses within the first two weeks of the semester without penalty. After this period, dropped courses may appear as 'W' (Withdrawn) on your transcript."
+        },
+        {
+            "questions": [
+                "How many credits should I take per semester?",
+                "Maximum course load",
+                "Recommended number of credits",
+                "Credit limits per semester"
+            ],
+            "answer": "The standard course load is 15-18 credit units per semester. The minimum requirement to maintain full-time status is 12 credit units. Students with a CGPA of 4.0 or higher may be permitted to take up to 24 credit units with approval from their department. First-year students are typically assigned a fixed course load. Consult your academic advisor for guidance based on your program requirements."
+        },
+        {
+            "questions": [
+                "How do I check my class schedule?",
+                "Where to find timetable",
+                "Lecture schedules",
+                "How to know my class times"
+            ],
+            "answer": "You can check your class schedule by: 1) Logging into your student portal and viewing the 'My Timetable' section, 2) Checking departmental notice boards where printed schedules are posted, 3) Using the university mobile app under 'My Schedule', or 4) Requesting a copy from your department office. Schedules are typically available one week before classes begin each semester."
+        },
+        {
+            "questions": [
+                "WHAT ARE THE GENERAL ENTRY REQUIREMENTS FOR A MASTER'S DEGREE PROGRAM AT NILE UNIVERSITY?",
+                "Masters admission requirements",
+                "Masters entry qualifications",
+                "Masters program requirements"
+            ],
+            "answer": "A Bachelor's degree (B.Sc.) in a related course, transcript, statement of result/certificate, and O'level."
+        },
+        {
+            "questions": [
+                "WHAT ARE THE GENERAL ENTRY REQUIREMENTS FOR AN M.PHIL PROGRAM AT NILE UNIVERSITY?",
+                "MPhil admission requirements",
+                "MPhil entry qualifications",
+                "MPhil program requirements"
+            ],
+            "answer": "A Bachelor's degree, Professional Master's Degree, and O'Level."
+        },
+        {
+            "questions": [
+                "WHAT ARE THE GENERAL ENTRY REQUIREMENTS FOR A PHD PROGRAM AT NILE UNIVERSITY?",
+                "PhD admission requirements",
+                "PhD entry qualifications",
+                "Doctorate program requirements"
+            ],
+            "answer": "A Master's (M.Sc.) and Bachelor's degree (B.Sc.) in a related course, transcript, statement of result/certificate, O'level."
+        },
+        {
+            "questions": [
+                "WHAT ARE THE LECTURE HOURS FOR PG PROGRAMS?",
+                "Postgraduate lecture schedule",
+                "PG class times",
+                "When are postgraduate lectures held?"
+            ],
+            "answer": "On weekdays (Monday – Friday), lectures start at 5 pm, while on weekends (Saturdays), lectures start at 9 am."
+        },
+        {
+            "questions": [
+                "IS IT POSSIBLE FOR A POSTGRADUATE STUDENT TO RUN HIS/HER COURSEWORK AT ANOTHER UNIVERSITY AND CONCLUDE HIS/HER THESIS AT NILE UNIVERSITY?",
+                "Transfer postgraduate credits",
+                "Complete thesis at Nile after coursework elsewhere",
+                "Postgraduate transfer possibility"
+            ],
+            "answer": "Yes, it is possible."
+        },
+        {
+            "questions": [
+                "DO YOU OFFER SHORT CERTIFICATION COURSES?",
+                "Short courses availability",
+                "Certificate programs",
+                "Professional certification options"
+            ],
+            "answer": "Yes, we offer short certification courses – through our subsidiary, Nile Online. Visit www.nileonline.com.ng to learn more."
+        },
+        {
+            "questions": [
+                "Do you offer online courses?",
+                "Online program availability",
+                "Distance learning options",
+                "Virtual learning programs"
+            ],
+            "answer": "Yes, we offer online courses & short professional courses through our subsidiary, Nile Online. Visit www.nileonline.com.ng to learn more."
+        },
+        {
+            "questions": [
+                "Do you offer a part-time program?",
+                "Part-time study options",
+                "Evening or weekend programs",
+                "Flexible study arrangements"
+            ],
+            "answer": "No, we do not. All our programs are full-time."
+        }
+    ],
+    "university_calendar": [
+        {
+            "questions": [
+                "When does the academic year start?",
+                "Start date of academic session",
+                "When do classes begin?",
+                "First day of school at Nile University"
+            ],
+            "answer": "The academic year typically starts in late September or early October for both new and returning students. Orientation for new students is usually held one week before classes begin. The exact dates for the current academic year are published on the university website and notice boards. Please check the official university calendar for specific dates."
+        },
+        {
+            "questions": [
+                "When are the examination periods?",
+                "Exam timetable",
+                "When do exams start?",
+                "Examination schedule at Nile University"
+            ],
+            "answer": "Mid-semester examinations typically take place in the 7th-8th week of each semester (usually November for first semester and March for second semester). Final examinations are conducted at the end of each semester, typically in January/February for first semester and June/July for second semester. Specific examination timetables are published at least two weeks before the exam period begins."
+        },
+        {
+            "questions": [
+                "When are the semester breaks?",
+                "Holiday periods",
+                "Vacation times",
+                "When is the school break?"
+            ],
+            "answer": "The semester breaks at Nile University are: Mid-semester break (typically 3-5 days in November for first semester and April for second semester), Inter-semester break (approximately 2-3 weeks in February), and Long vacation (approximately 8 weeks from July to September). Additionally, the university observes all national public holidays."
+        },
+        {
+            "questions": [
+                "When is matriculation and convocation?",
+                "Graduation ceremony date",
+                "When is matriculation held?",
+                "Date for convocation ceremony"
+            ],
+            "answer": "Matriculation for new students is typically held in November, about 4-6 weeks after the start of the academic year. Convocation (graduation ceremony) is usually held in December for students who completed their programs in the previous academic year. Specific dates are announced via the university website, email, and notice boards."
+        },
+        {
+            "questions": [
+                "When is the registration deadline?",
+                "Last date for course registration",
+                "Registration deadline",
+                "When does registration close?"
+            ],
+            "answer": "Course registration typically begins two weeks before the start of each semester and ends two weeks after classes begin. Late registration with a penalty fee is allowed for an additional week. For new students, registration takes place during the orientation week. Check the academic calendar on the university website or notice boards for specific dates for the current session."
+        }
+    ],
+    "departments_and_faculties": [
+        {
+            "questions": [
+                "What faculties are available at Nile University?",
+                "List of faculties",
+                "Faculties in Nile University",
+                "How many faculties does Nile University have?"
+            ],
+            "answer": "Nile University has 7 faculties: Faculty of Engineering, Faculty of Natural and Applied Sciences, Faculty of Management Sciences, Faculty of Arts and Social Sciences, Faculty of Law, Faculty of Medical Sciences, and Faculty of Environmental Sciences. Each faculty houses several departments and programs."
+        },
+        {
+            "questions": [
+                "What departments are in the Faculty of Engineering?",
+                "Engineering departments",
+                "Programs in engineering faculty",
+                "What can I study in engineering?"
+            ],
+            "answer": "The Faculty of Engineering comprises the following departments: Department of Civil Engineering, Department of Electrical & Electronics Engineering, Department of Computer Engineering, Department of Mechanical Engineering, Department of Chemical Engineering, and Department of Petroleum Engineering. Each department offers undergraduate and postgraduate programs."
+        },
+        {
+            "questions": [
+                "What departments are in the Faculty of Management Sciences?",
+                "Business departments",
+                "Management Science programs",
+                "What can I study in business?"
+            ],
+            "answer": "The Faculty of Management Sciences includes: Department of Business Administration, Department of Accounting, Department of Economics, Department of Banking and Finance, Department of Entrepreneurship, and Department of Human Resource Management. Both undergraduate and postgraduate programs are available in these departments."
+        },
+        {
+            "questions": [
+                "What programs are offered in the Faculty of Arts and Social Sciences?",
+                "Arts programs",
+                "Social Science courses",
+                "What can I study in arts and humanities?"
+            ],
+            "answer": "The Faculty of Arts and Social Sciences offers programs in: Mass Communication, International Relations, Political Science, English Language and Literature, History and Diplomatic Studies, Sociology, and Psychology. These programs are designed to provide students with a broad-based education in the humanities and social sciences."
+        },
+        {
+            "questions": [
+                "How many departments does Nile University have in total?",
+                "Total number of departments",
+                "List all departments",
+                "Academic departments count"
+            ],
+            "answer": "Nile University has approximately 35 academic departments spread across its 7 faculties. Each department specializes in a specific field of study and offers various degree programs at undergraduate and postgraduate levels. For a complete and current list of departments, please visit the university website or contact the Academic Planning office."
+        }
+    ],
+    "university_administration": [
+        {
+            "questions": [
+                "Who is the Vice-Chancellor of Nile University?",
+                "Current Vice-Chancellor",
+                "Name of the VC",
+                "Who heads Nile University?"
+            ],
+            "answer": "For the most current information about the Vice-Chancellor of Nile University, please visit the university's official website or contact the Office of the Vice-Chancellor. The Vice-Chancellor's office is located in the University Administration Building."
+        },
+        {
+            "questions": [
+                "Who are the principal officers of Nile University?",
+                "University management team",
+                "Key administration officials",
+                "Who runs Nile University?"
+            ],
+            "answer": "The principal officers of Nile University include: The Vice-Chancellor (head of the institution), Deputy Vice-Chancellors (Academic and Administration), Registrar (head of administration), Bursar (head of financial matters), University Librarian, and Deans of Faculties. For current office holders, please refer to the university website under 'Administration' or 'About Us' section."
+        },
+        {
+            "questions": [
+                "Where is the Registrar's office?",
+                "Location of Registry",
+                "How to find the Registrar",
+                "Registry office location"
+            ],
+            "answer": "The Registrar's office is located on the ground floor of the University Administration Building, which is centrally located on campus. The Registry is open from Monday to Friday, 8:00 AM to 4:00 PM. Students can visit for academic records, transcripts, verification of documents, and other administrative services."
+        },
+        {
+            "questions": [
+                "How do I contact the Bursary department?",
+                "Bursary contact information",
+                "Reach the finance office",
+                "Contact details for fee payment inquiries"
+            ],
+            "answer": "The Bursary department can be contacted through: Email: bursary@nileuniversity.edu.ng, Phone: +234-XXX-XXXX-XXX, or in person at the Bursary department located on the first floor of the Administration Building. Office hours are Monday to Friday, 8:00 AM to 4:00 PM. For fee payments and financial inquiries, it's advisable to visit in person."
+        },
+        {
+            "questions": [
+                "Who is the Dean of Student Affairs?",
+                "Student Affairs Dean",
+                "Head of student welfare",
+                "Who to contact for student matters"
+            ],
+            "answer": "For the current Dean of Student Affairs, please check the university website under 'Administration' or visit the Student Affairs Office on the ground floor of the Student Center. The Student Affairs Office handles matters related to student welfare, accommodation, clubs, and disciplinary issues. Office hours are Monday to Friday, 8:00 AM to 4:00 PM."
+        }
+    ],
+    "student_services": [
+        {
+            "questions": [
+                "How do I access the library resources?",
+                "Library access",
+                "How to use library resources",
+                "Using the university library"
+            ],
+            "answer": "To access the library: 1) Visit with your student ID card during operating hours (8:00 AM - 10:00 PM weekdays, 9:00 AM - 5:00 PM weekends), 2) For online resources, log in to the e-library portal via library.nileuniversity.edu.ng using your student credentials, 3) Reserve books through the online catalog, 4) Access research databases including JSTOR, IEEE, and EBSCO. Library orientation sessions are held at the beginning of each semester."
+        },
+        {
+            "questions": [
+                "How do I access my student email?",
+                "Student email access",
+                "Login to university email",
+                "How to check my school email"
+            ],
+            "answer": "To access your student email: 1) Go to mail.nileuniversity.edu.ng or use Office 365 portal, 2) Log in with your university email address (studentID@nileuniversity.edu.ng) and password (initially your student ID until changed), 3) If you're a new user, follow the password reset instructions sent to your personal email. For email support, contact the ICT Helpdesk at ichelpdesk@nileuniversity.edu.ng."
+        },
+        {
+            "questions": [
+                "What medical services are available on campus?",
+                "University clinic information",
+                "Healthcare services for students",
+                "Medical facilities at Nile University"
+            ],
+            "answer": "The University Health Center provides: General medical consultations and treatments, emergency care, basic laboratory tests, prescriptions, health education, and referrals to specialists when necessary. The clinic is open Monday to Friday, 8:00 AM to 5:00 PM, with emergency services available 24/7. All students are covered by basic health insurance included in their fees. The Health Center is located near the Student Center."
+        },
+        {
+            "questions": [
+                "How do I get IT support for my student portal?",
+                "ICT helpdesk",
+                "Technical support for students",
+                "Help with portal login issues"
+            ],
+            "answer": "For IT support: 1) Visit the ICT Helpdesk located in the ICT Building, open Monday to Friday, 8:00 AM to 4:30 PM, 2) Email ithelpdesk@nileuniversity.edu.ng with your student ID and issue description, 3) Call the helpdesk at XXX-XXX-XXXX, 4) Use the support request form on the student portal. Common issues like password resets are usually resolved within 24 hours."
+        },
+        {
+            "questions": [
+                "What counseling services are available?",
+                "Mental health support",
+                "Student counseling center",
+                "Psychological services for students"
+            ],
+            "answer": "The Student Counseling Center offers: Confidential individual counseling, group therapy sessions, stress management workshops, career counseling, and academic performance support. Services are free for all registered students. To schedule an appointment, visit the center located in the Student Affairs building, email counseling@nileuniversity.edu.ng, or call XXX-XXX-XXXX. Walk-ins are welcome for urgent situations."
+        }
+    ],
+    "preliminary_studies": [
+        {
+            "questions": [
+                "DOES NILE UNIVERSITY OFFER ANY A-LEVEL ENTRANCE PROGRAM?",
+                "A-level program availability",
+                "Pre-university programs at Nile",
+                "Preliminary studies options"
+            ],
+            "answer": "Yes, Nile University of Nigeria has a full-time intensive A-Level program called the School of Preliminary Studies (SPS), designed for students seeking direct entry admission into the University through JUPEB."
+        },
+        {
+            "questions": [
+                "WHAT CATEGORY OF STUDENTS IS THE NILE UNIVERSITY SPS PROGRAM DESIGNED FOR?",
+                "Who can apply for SPS",
+                "SPS program target students",
+                "Eligibility for preliminary studies"
+            ],
+            "answer": "The Nile University SPS program is designed for; Students who do not have JAMB but wish to gain admission to the university through direct entry. Students who wish to switch between disciplines (e.g., from the Arts to Sciences)."
+        },
+        {
+            "questions": [
+                "WHAT IS THE DURATION OF THE NILE UNIVERSITY SCHOOL OF PRELIMINARY STUDIES (SPS) PROGRAM?",
+                "SPS program length",
+                "How long is the SPS program",
+                "Duration of preliminary studies"
+            ],
+            "answer": "The Nile University School of Preliminary Studies (SPS) Program is available for a duration of 12-months, providing students with a comprehensive range of knowledge and skills in areas related to the programme they wish to study in the university."
+        },
+        {
+            "questions": [
+                "WHAT ARE THE REQUIREMENTS FOR APPLYING INTO THE NILE UNIVERSITY SCHOOL OF PRELIMINARY STUDIES (SPS)",
+                "SPS admission requirements",
+                "SPS entry qualifications",
+                "How to qualify for SPS program"
+            ],
+            "answer": "To apply for the Nile University SPS program, you need to possess a minimum of five (5) credits in English, Mathematics, and three (3) other relevant subjects in WAEC/NECO/NABTEB/IGCSE or their equivalent at a maximum of two (2) sittings. Students awaiting their O'level results are also encouraged to apply, provided they provide their O'levels within the 12 months of the SPS programme."
+        },
+        {
+            "questions": [
+                "HOW IS THE NILE UNIVERSITY SPS PROGRAM STRUCTURED?",
+                "SPS curriculum structure",
+                "SPS program format",
+                "How SPS courses are organized"
+            ],
+            "answer": "The Nile University School of Preliminary Studies (SPS) programme offers a blend of Nigerian and Foreign A 'Level courses, enabling students who have met the requirements to gain direct entry admission to 200 Level at Nile University and outside the country. Students enrolled in the Nile University SPS programme are expected to select three courses relevant to their intended course of study, including some mandatory general knowledge courses."
+        },
+        {
+            "questions": [
+                "HOW MUCH DOES THE NILE UNIVERSITY SPS PROGRAM COST?",
+                "SPS tuition fees",
+                "Cost of preliminary studies",
+                "SPS program price"
+            ],
+            "answer": "Tuition for Nile University's SPS programmes vary depending on the course: For Sciences: ₦2,750,000, For Non-Sciences: ₦2,500,000."
+        },
+        {
+            "questions": [
+                "WHAT IS THE PROCEDURE FOR APPLYING TO THE NILE UNIVERSITY SCHOOL OF PRELIMINARY STUDIES?",
+                "SPS application process",
+                "How to apply for SPS",
+                "SPS admission procedure"
+            ],
+            "answer": "Application to the Nile University School of Preliminary Studies (SPS) is done online via the website: www.nileuniversity.edu.ng/school-of-preliminary-studies."
+        },
+        {
+            "questions": [
+                "ARE SPS STUDENTS ENTITLED TO ON-CAMPUS ACCOMMODATION?",
+                "SPS accommodation options",
+                "Can SPS students stay on campus",
+                "Housing for preliminary studies students"
+            ],
+            "answer": "Yes, Students enrolling in the Nile University SPS programme are entitled to on-campus accommodation at a cost separate from tuition."
+        }
+    ],
+    "transfers": [
+        {
+            "questions": [
+                "What is the procedure for applying for transfer to Nile University of Nigeria from another university?",
+                "How to transfer to Nile",
+                "Transfer admission process",
+                "Steps for university transfer"
+            ],
+            "answer": "To transfer to Nile University, apply online via the website www.nileuniversity.edu.ng then, on the application form, select the \"transfer\" category and follow the prompts."
+        },
+        {
+            "questions": [
+                "Can a student in 200 level transfer to another course of study and still maintain the same level (200 level)?",
+                "Changing course at same level",
+                "Internal program transfer",
+                "Switch majors at same level"
+            ],
+            "answer": "Yes, but there are conditions. Kindly visit your department for more information."
+        },
+        {
+            "questions": [
+                "Can a final-year (400 level) student from another university transfer to Nile University and continue from 400 level?",
+                "Transfer in final year",
+                "400 level transfer possibility",
+                "Transfer as a final year student"
+            ],
+            "answer": "No, a transfer student must spend a minimum of four semesters (two sessions) in the new university before graduation."
+        },
+        {
+            "questions": [
+                "Can a PG student transfer to Nile University?",
+                "Postgraduate transfer possibility",
+                "Masters student transfer",
+                "PhD transfer options"
+            ],
+            "answer": "Yes."
+        },
+        {
+            "questions": [
+                "Do I need to provide a JAMB result if I am transferring from a foreign University to Nile University?",
+                "JAMB for international transfers",
+                "Transfer from foreign university JAMB requirement",
+                "International student transfer requirements"
+            ],
+            "answer": "No, but you need to apply for a JAMB admission letter."
+        },
+        {
+            "questions": [
+                "How do I request my transcript?",
+                "Transcript request process",
+                "Getting academic transcripts",
+                "Official transcript application"
+            ],
+            "answer": "To request a transcript, students should contact the Academic Division office via email at academicdivision@nileuniversity.edu.ng or physically at Nile House (administrative building), Room 121. Official transcripts are available for a fee of ₦10,000, while unofficial transcripts are free. The Academic Division office may be able to send official transcripts on behalf of a requesting student to a stipulated destination (school, etc.), although the cost of sending the transcript may vary depending on the location it is being sent to."
+        }
+    ],
+    "student_portal": [
+        {
+            "questions": [
+                "How do I get my login details to access my student portal/dashboard?",
+                "Student portal login information",
+                "Accessing student dashboard",
+                "Get portal login credentials"
+            ],
+            "answer": "After enrolling in the admissions office, students will receive their login details via email. These login details are necessary for accessing services and resources, such as registering for courses and checking academic records."
+        },
+        {
+            "questions": [
+                "How do I retrieve/reset my password on the portal?",
+                "Portal password reset",
+                "Forgot student portal password",
+                "Change portal login password"
+            ],
+            "answer": "If students forget their password, they can reset it by clicking on the \"password reset\" option and following the prompts. If they do not have access to their school email, they can visit the IT office in the administrative building, Nile House, room 109, or send an email to itsupport@nileuniversity.edu.ng for assistance."
+        },
+        {
+            "questions": [
+                "How can I generate a receipt after making a payment?",
+                "Download payment receipt",
+                "Print tuition payment receipt",
+                "Finding payment confirmation"
+            ],
+            "answer": "Visit your student portal, select My finance then select account information and click the online payment hyperlink. Finally, download the file."
+        },
+        {
+            "questions": [
+                "Why am I on \"registration hold\"?",
+                "Registration hold reasons",
+                "Can't register for courses",
+                "Registration blocked on portal"
+            ],
+            "answer": "You can be prevented from taking part in registration for two reasons: an outstanding (unpaid) balance or a low CGPA."
+        },
+        {
+            "questions": [
+                "Why do I see an outstanding balance, when I don't have any?",
+                "Understanding account balance",
+                "Balance in brackets meaning",
+                "Negative balance on portal"
+            ],
+            "answer": "If the outstanding balance is in a bracket/parenthesis, you do not have to worry, it is unutilized funds paid to your student account. However, if the outstanding payment is not in a bracket that means you have an outstanding balance to pay. You can visit the Accounts/Finance Unit for further clarifications if required."
+        },
+        {
+            "questions": [
+                "Can I register before making the stipulated payment for tuition?",
+                "Registration without payment",
+                "Course registration without fees",
+                "Register before paying tuition"
+            ],
+            "answer": "No, you cannot register unless you have paid the stipulated tuition. You may, however, register if the balance on your dashboard is greater than 50% of the current semester's tuition."
+        },
+        {
+            "questions": [
+                "How do I register for my courses?",
+                "Course registration on portal",
+                "Register for semester courses",
+                "Selecting courses online"
+            ],
+            "answer": "Kindly contact your department/academic division."
+        },
+        {
+            "questions": [
+                "I misplaced my ID card; where and how do I get a new card?",
+                "Lost student ID replacement",
+                "Getting new student ID",
+                "Replace missing ID card"
+            ],
+            "answer": "Student ID cards can be collected from the departmental secretaries or the Academic Division department. For new students, as soon as you get an ID number and your picture has been uploaded to the portal, kindly visit your department to collect your ID card. Students who misplace their ID cards are charged N5,000 to get a new one. Students are advised to take care of their ID cards to avoid this fee."
+        },
+        {
+            "questions": [
+                "What are the procedures for \"change of course/department\"?",
+                "Changing academic department",
+                "Switch to different program",
+                "Process to change course"
+            ],
+            "answer": "Students who wish to change their courses or departments should obtain a \"Change of Department/Course\" form from the Academic Division office (Nile House, Room 121). They may need to meet certain requirements, such as having the necessary O'Level and JAMB qualifications, and there may be limitations on the number of times they can change their course or department. It is important for students to carefully consider their decision and consult with academic advisors before opting to change their course/department."
+        }
+    ],
+    "career_and_entrepreneurship": [
+        {
+            "questions": [
+                "What is the Career Services Center?",
+                "Career services information",
+                "Career support at Nile",
+                "Career development resources"
+            ],
+            "answer": "The Career Services Center of Nile University of Nigeria is charged with the responsibility of empowering our students and alumni to make effective career choices by offering high-quality training, career counselling, and personalized coaching and mentoring to meet their career needs. The Center synergizes with employers and industry professionals for on-campus workshops and recruitments."
+        },
+        {
+            "questions": [
+                "What kind of services does the Career Services Center render?",
+                "Career center offerings",
+                "Available career support",
+                "Career assistance options"
+            ],
+            "answer": "The Career Services Center offers the following services to Nile University's students and alumni: Career development, transition or advancement advise. Job search support. Internships and job preparation. CV and cover letter review. LinkedIn optimization and personal branding tips. Mock interviews. Advise on change of course(s). Scholarship and Postgraduate admission support. Career development webinars/workshops."
+        },
+        {
+            "questions": [
+                "What kind of events does the Career Services Center organize?",
+                "Career center events",
+                "Career workshops and fairs",
+                "Employability programs"
+            ],
+            "answer": "Career fairs. Mock job assessment centers. Campus-wide events like TEDx, SDG summit, and Innovation/Art Exhibition. Career development workshops. Skill acquisition webinars."
+        },
+        {
+            "questions": [
+                "Where is the Career Services Center?",
+                "Career center location",
+                "How to contact career services",
+                "Career center contact details"
+            ],
+            "answer": "The Career Services Center is located at Nile House, Room 105. The Center can also be reached any time through the online platform: www.nileuniversitycommunity.com, or by email: careerservice@nileuniversity.edu.ng. The Center's visiting hours are: Monday – Friday from 10am – 12 noon or 1pm – 3pm."
+        },
+        {
+            "questions": [
+                "What is the Entrepreneurship And Innovation Hub?",
+                "Collective Lab information",
+                "Entrepreneurship resources",
+                "Innovation support at Nile"
+            ],
+            "answer": "The Collective Lab is a dedicated space for students to meet, learn, connect, create, share, and inspire. This collaborative incubation hub is dedicated to innovative project owners who want to start their own business. It is designed to develop an innovative entrepreneurial spirit among Nile University students. The Entrepreneurship & Innovation lab is saddled with the responsibility of teaching, coaching, guiding and inspiring students and alumni in their entrepreneurial and Innovation journey. The Centre provides students the tools and experiences necessary to creatively pursue new opportunities and innovations in the start-up, social, and corporate venture arenas."
+        }
+    ],
+    "research_and_innovation": [
+        {
+            "questions": [
+                "Does Nile University offer incentives for research?",
+                "Research incentives",
+                "Rewards for researchers",
+                "Research support programs"
+            ],
+            "answer": "Yes, Nile University rewards and recognizes active researchers."
+        },
+        {
+            "questions": [
+                "Do faculty members of Nile University engage in research activities?",
+                "Faculty research involvement",
+                "Professor research engagement",
+                "Academic staff research activities"
+            ],
+            "answer": "Yes, Nile University has a robust pool of faculty members who engage in the conduct and publishing of quality research in top-rated scientific journals."
+        },
+        {
+            "questions": [
+                "Are there research training opportunities available for students and faculty members?",
+                "Research training programs",
+                "Research skills development",
+                "Academic research workshops"
+            ],
+            "answer": "Nile University organizes bi-monthly academic (teaching and research) training and workshops tagged \"Academic Seminar Series\" for all its postgraduate students and faculty members."
+        },
+        {
+            "questions": [
+                "What unit oversees research-related activities at the Nile University of Nigeria?",
+                "Research administration unit",
+                "Research management office",
+                "Research coordination department"
+            ],
+            "answer": "The Research and Innovation unit, under the office of the Deputy Vice-Chancellor (DVC), oversees the conduct of all research activities and publications undertaken by the faculty members of the Nile University of Nigeria. Note: For all enquiries relating to research and innovations, contact the Research and Innovations unit at research.coordinator@nileuniversity.edu.ng or physically at Nile House, Room 202."
+        }
+    ],
+    "general_information": [
+        {
+            "questions": [
+                "WHEN SHOULD I APPLY?",
+                "Application timeline",
+                "When to apply for admission"
+            ],
+            "answer": "Postgraduate applications can be done continuously for next semester."
+        },
+        {
+            "questions": [
+                "HOW CAN I APPLY FOR ADMISSION?",
+                "Admission application process",
+                "How to apply to Nile University"
+            ],
+            "answer": "Application can be made via http://www.sis.nileuniversity.edu.ng/my/app"
+        },
+        {
+            "questions": [
+                "DOES NILE CONDUCT POST-UTME EXAM?",
+                "Post-UTME information",
+                "Entrance examination details"
+            ],
+            "answer": "No."
+        },
+        {
+            "questions": [
+                "HOW CAN I APPLY FOR SCHOLARSHIP?",
+                "Scholarship application process",
+                "How to get financial aid"
+            ],
+            "answer": "Apply for admission via http://www.sis.nileuniversity.edu.ng/my/app and if your results meet our requirements (https://www.nileuniversity.edu.ng/scholarships-and-discounts), the scholarship will be granted automatically."
+        },
+        {
+            "questions": [
+                "DOES NILE ACCEPT DIRECT ENTRY AND TRANSFER STUDENTS?",
+                "Direct entry admission",
+                "Transfer student policy",
+                "Transferring to Nile University"
+            ],
+            "answer": "Yes. To apply, please forward your university transcript, O'level result, UTME result and JAMB admission letter (if transferring from a Nigerian university) via email to admission@nileuniversity.edu.ng and then, apply online via http://www.sis.nileuniversity.edu.ng/my/app."
+        },
+        {
+            "questions": [
+                "WHAT ABOUT ACCOMMODATION AND FEEDING?",
+                "Campus accommodation details",
+                "Student housing information",
+                "Meal plans at Nile University"
+            ],
+            "answer": "Please visit https://www.nileuniversity.edu.ng/student-accommodation."
+        },
+        {
+            "questions": [
+                "DO I NEED A JAMB RESULT TO GAIN ADMISSION INTO NILE UNIVERSITY OF NIGERIA?",
+                "JAMB requirement for admission",
+                "Is JAMB mandatory?"
+            ],
+            "answer": "Yes, you need a JAMB result if you are a Nigerian student, but foreign students must provide their 12th-grade school results."
+        },
+        {
+            "questions": [
+                "CAN I GET ADMISSION WITH MY PREVIOUS YEAR'S JAMB RESULT?",
+                "Using old JAMB result",
+                "Previous year JAMB validity"
+            ],
+            "answer": "Yes, if you have gained admission previously with another school that has processed your JAMB result. If your JAMB result is for the previous year, you can change your first choice of school to Nile University, upload your O'level results, and get back to us."
+        },
+        {
+            "questions": [
+                "WHAT IS THE PROCEDURE FOR APPLYING TO THE NILE UNIVERSITY OF NIGERIA?",
+                "Application procedure",
+                "Steps to apply for admission"
+            ],
+            "answer": "All applications are done online on the university website: www.nileuniversity.edu.ng."
+        },
+        {
+            "questions": [
+                "DO I HAVE TO PAY FOR THE APPLICATION? IF SO, HOW MUCH DOES YOUR FORM COST?",
+                "Application fee",
+                "Cost of application form"
+            ],
+            "answer": "Application to Nile University of Nigeria is free."
+        },
+        {
+            "questions": [
+                "I CAN'T FIND THE NAME OF MY SECONDARY/TERTIARY INSTITUTION VIA THE APPLICATION PORTAL.",
+                "School not found in application",
+                "Missing institution name in portal"
+            ],
+            "answer": "Kindly select others, a space will be provided for you to input the name of your school."
+        },
+        {
+            "questions": [
+                "HOW LONG DOES IT TAKE TO GET AN OFFER LETTER AFTER COMPLETING MY APPLICATION?",
+                "Offer letter timeline",
+                "Admission response time"
+            ],
+            "answer": "Depending on the volume of applications, the offer of admission letters may range from two to four weeks."
+        },
+        {
+            "questions": [
+                "I CHOSE THE WRONG DEGREE CATEGORY (E.G., UNDERGRADUATE, POSTGRADUATE) WHILE APPLYING; WHAT SHOULD I DO?",
+                "Mistake in application",
+                "Changing degree category",
+                "Wrong application type"
+            ],
+            "answer": "You will need to re-apply with a different email address."
+        },
+        {
+            "questions": [
+                "HOW DO I CHECK MY APPLICATION STATUS?",
+                "Application status check",
+                "Tracking admission application"
+            ],
+            "answer": "To check the status of your application, log on to the application portal via the university website www.nileuniversity.edu.ng, you will see the status on your dashboard."
+        },
+        {
+            "questions": [
+                "What is Nile University?",
+                "About Nile University",
+                "University background",
+                "Tell me about Nile University Abuja"
+            ],
+            "answer": "Nile University is a private university located in Abuja, Nigeria, established to provide quality education with a focus on technology, innovation, and entrepreneurship. The university offers diverse undergraduate and postgraduate programs across various disciplines. It features modern facilities, qualified faculty, international partnerships, and a conducive learning environment that prepares students for global competitiveness."
+        },
+        {
+            "questions": [
+                "What are the admission requirements?",
+                "How can I get admitted?",
+                "Entry requirements",
+                "Admission criteria for Nile University"
+            ],
+            "answer": "Admission requirements for undergraduate programs include: Minimum of 5 O'Level credits including English and Mathematics, Competitive UTME score (usually 180 and above), Post-UTME assessment, and Completion of the application form with application fee. For direct entry, candidates need A'Levels, ND, or HND with good grades. International students must provide equivalent qualifications. Postgraduate applicants require a bachelor's degree with at least Second Class Lower division."
+        },
+        {
+            "questions": [
+                "What sports facilities are available?",
+                "Sports and recreation",
+                "Athletic facilities",
+                "Sports center information"
+            ],
+            "answer": "Nile University offers comprehensive sports facilities including: Football pitch, Basketball courts, Tennis courts, Indoor sports hall for badminton and table tennis, Swimming pool, Fully-equipped gymnasium, Athletics track, and Volleyball courts. The sports complex is open daily from 6:00 AM to 9:00 PM. Students can join various sports clubs and participate in intervarsity competitions."
+        },
+        {
+            "questions": [
+                "What student clubs are available?",
+                "Extracurricular activities",
+                "Student organizations",
+                "Clubs and societies at Nile University"
+            ],
+            "answer": "Nile University hosts various student clubs including: Engineering Society, Business Club, Debate Club, Literary and Drama Club, Science and Technology Club, Sports Clubs (football, basketball, tennis), Cultural Association, Rotaract Club, Model UN Club, Art and Photography Club, Entrepreneurship Club, and various religious associations. New clubs can be formed with approval from Student Affairs with at least 15 members and a faculty advisor."
+        },
+        {
+            "questions": [
+                "What is the dress code at Nile University?",
+                "University dress policy",
+                "Appropriate attire for students",
+                "Clothing rules on campus"
+            ],
+            "answer": "Nile University encourages modest and professional attire. Students are expected to dress in a manner appropriate for an academic environment. Revealing clothing, offensive prints, and excessively casual attire (such as shorts or sleeveless tops) are discouraged in academic buildings. For laboratories and workshops, specific safety dress codes apply. Formal attire is required for official university functions and presentations."
+        },
+        {
+            "questions": [
+                "DOES NILE CONDUCT ANY EXAM?",
+                "Postgraduate entrance exam",
+                "PG admission test",
+                "Entry exams for postgraduate"
+            ],
+            "answer": "No. Only interview for PhD candidates."
+        },
+        {
+            "questions": [
+                "IS THERE ANY SCHOLARSHIP?",
+                "Postgraduate scholarships",
+                "PG financial aid",
+                "Scholarship for Masters students"
+            ],
+            "answer": "No, but there are various discounts. See https://www.nileuniversity.edu.ng/scholarships-and-discounts."
+        },
+        {
+            "questions": [
+                "How do I submit an application?",
+                "Application submission process",
+                "Steps to submit application",
+                "How to complete application"
+            ],
+            "answer": "To submit an application log in to the application portal via click here."
+        },
+        {
+            "questions": [
+                "How can I check my application status?",
+                "View application status",
+                "Track my application",
+                "See if my application was received"
+            ],
+            "answer": "Sign in to your application portal using click here to view your application status"
+        },
+        {
+            "questions": [
+                "When was Nile University established?",
+                "Foundation of Nile University",
+                "University establishment date",
+                "How old is Nile University"
+            ],
+            "answer": "The Nile University of Nigeria was established in 2009."
+        },
+        {
+            "questions": [
+                "Who owns Nile University of Nigeria?",
+                "University ownership",
+                "Parent company of Nile",
+                "Proprietor of Nile University"
+            ],
+            "answer": "The Nile University of Nigeria is owned by Honoris United Universities."
+        },
+        {
+            "questions": [
+                "What is Honoris United Universities all about?",
+                "About Honoris Universities",
+                "Honoris network information",
+                "Honoris United Universities details"
+            ],
+            "answer": "Honoris United Universities is the first and largest pan-African private higher education network with 15 institutions across 10 African countries, including Morocco, Nigeria, Tunisia, Mauritius, and South Africa. The Honoris United Universities Network is committed to educating the next generation of African leaders and professionals that will be able to impact regionally in a globalized world through collaborative intelligence, cultural agility, and mobile mindsets. Honoris joins the expertise of its member institutions to develop world-class African talent that is competitive in today's fast-paced, demanding and increasingly digitized labour and start-up markets."
+        },
+        {
+            "questions": [
+                "Are Nile University's courses accredited?",
+                "Course accreditation status",
+                "NUC accreditation",
+                "Program recognition"
+            ],
+            "answer": "Yes, all courses offered at the Nile University of Nigeria are fully accredited by the National Universities Commission (NUC)."
+        },
+        {
+            "questions": [
+                "Is Nile University a Muslim school?",
+                "Religious affiliation",
+                "Faith-based institution",
+                "Islamic university status"
+            ],
+            "answer": "No, Nile University is a secular school owned by the Honoris United Universities Network."
+        },
+        {
+            "questions": [
+                "Is there a Chapel at Nile University?",
+                "Christian worship facilities",
+                "Church on campus",
+                "Religious worship spaces"
+            ],
+            "answer": "We do not have a chapel yet, but we have a functioning students' Christian fellowship and a hall where church services are held."
+        },
+        {
+            "questions": [
+                "How safe is your school?",
+                "Campus security",
+                "Safety measures",
+                "Security arrangements"
+            ],
+            "answer": "Our institution is secure and well-protected. We combine the use of private security with the police and other security agencies, as well as relevant security technologies to ensure the safety of our campus community."
+        },
+        {
+            "questions": [
+                "Does Nile University have a dress code?",
+                "Clothing regulations",
+                "Dress requirements",
+                "Attire rules"
+            ],
+            "answer": "No, however, we expect our students to dress decently at all times."
+        },
+        {
+            "questions": [
+                "I hear that Nile University has a long vacation (summer) semester; what is it all about?",
+                "Summer semester details",
+                "Long vacation classes",
+                "Summer course offerings"
+            ],
+            "answer": "Nile University runs a long vacation (summer) semester which takes place during the three-month end-of-session vacation (usually from July-September). During the long vacation semester, new students admitted during the second intake enrolment campaign complete their second-semester courses to enable them to catch up with and resume the new session on the same level as their peers who were admitted during the first intake enrolment of that academic session. Students with carry-over courses are also allowed to re-take these courses during the long vacation semester. Students with outstanding courses from previous levels, such as transfer students, may also be allowed to take these courses during the summer semester. Summer semester course offerings are limited, and students are generally only allowed to take a maximum of 15 credits during this semester. This means that a student can take a maximum of five 3-credit courses or seven 2-credit courses."
+        }
+    ]
+} 
